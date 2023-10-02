@@ -160,6 +160,11 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 George Kazibwe <gkazibwe@gmail.com>
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Joann Vuong  
+
+Third part of Airbnb:  
+George Kazibwe [Github](https://github.com/Geo-K23) / [Twitter](https://twitter.com/GeorgeKazibwe)  
+Ahmed ramadan ali Ali  
+
 ## License
 Public Domain. No copy write protection. 

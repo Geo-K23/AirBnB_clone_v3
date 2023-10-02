@@ -149,6 +149,8 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+## AirBnB clone - RESTful API
+On top of the above functionalities, new features will be added to the program by George Kazibwe. These features include turning the AirBnB clone into a web application using the Flask Web framework.  
 
 ## Bugs
 No known bugs at this time. 
@@ -156,6 +158,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+George Kazibwe <gkazibwe@gmail.com>
 
 Second part of Airbnb: Joann Vuong
 ## License

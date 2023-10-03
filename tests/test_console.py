@@ -43,6 +43,7 @@ class TestConsoleDocs(unittest.TestCase):
         self.assertTrue(len(HBNBCommand.__doc__) >= 1,
                         "HBNBCommand class needs a docstring")
 
+
 class TestConsoleCommands(unittest.TestCase):
     """Class testing the functionality of console commands"""
     @classmethod
